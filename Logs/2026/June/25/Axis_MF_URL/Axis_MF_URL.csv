@@ -1,0 +1,4 @@
+Page,ResponseTime,Time,Error,Status,Error Screenshot File Location,Bandwidth
+Axis MF ELSS Page,0.00,16:14:21,Technical Error,FAIL,null,,
+Axis MF ELSS Page,5.11,16:16:18,null,PASS,null,,
+Axis Connect Landing Page,3.22,16:16:22,null,PASS,null,,

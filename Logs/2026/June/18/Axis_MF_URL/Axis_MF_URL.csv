@@ -1,0 +1,12 @@
+Page,ResponseTime,Time,Error,Status,Error Screenshot File Location,Bandwidth
+Axis MF ELSS Page,9.40,11:24:57,null,PASS,null,,
+Axis Connect Landing Page,7.39,11:25:4,null,PASS,null,,
+Axis MF ELSS Page,14.61,11:39:41,null,PASS,null,,
+Axis Connect Landing Page,8.20,11:39:49,null,PASS,null,,
+Axis MF ELSS Page,13.37,15:24:31,Technical Error,FAIL,null,,
+Axis MF ELSS Page,16.96,15:24:35,Technical Error,FAIL,null,,
+Axis Connect Landing Page,0.02,15:24:37,Technical Error,FAIL,null,,
+Axis Connect Landing Page,12.93,15:24:50,Technical Error,FAIL,null,,
+Axis Connect Landing Page,15.40,15:24:53,Technical Error,FAIL,/home/suraj.negi@apmosys.mahape/Downloads/axis url/Logs/2026/June/18/Axis_MF_URL/Axis Connect Landing Page_15_24_56.png,,
+Axis MF ELSS Page,10.62,15:39:20,null,PASS,null,,
+Axis Connect Landing Page,4.55,15:39:24,null,PASS,null,,
